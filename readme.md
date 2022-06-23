@@ -1,1 +1,1 @@
-Jogo do jokenpo desenvolvido no python
+Desenvolvimento na faculdade.
